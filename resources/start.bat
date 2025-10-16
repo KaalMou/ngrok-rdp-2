@@ -18,4 +18,3 @@ tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -
 echo Username: LittleFox
 echo Password: 6454@nili
 echo You can login now
-ping -n 10 127.0.0.1 >nul
